@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">CoffeApplication</string>
+    <string name="password">PassWord</string>
+    <string name="username">User Name</string>
+    <string name="checkbox" />
+    <string name="app_Login">LOGIN</string>
+    <string name="ADD">ADD</string>
+    <string name="TenSanPham">Name</string>
+    <string name="MaSanPham">Code</string>
+    <string name="DonViTinh">Unit</string>
+    <string name="GiaTien">Price</string>
+    <string name="ChiTietSanPham">Chi Tiet San Pham</string>
+    <string name="MaSP">Code</string>
+    <string name="DonVitinh">Unit</string>
+    <string name="Giatien">Price</string>
+    <string name="Ten">Name</string>
+    <string name="DanhSacSanPham">Danh Sach San Pham</string>
+    <string name="update">Update</string>
+    <string name="back">Back</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_coffe_fragment">this is san pham fragment</string>
+    <string name="hello_sanpham_fragment">this is coffe fragment</string>
+    <string name="hello_Ten_fragment">this is</string>
+    <string name="hello_ban_fragment">this is coffe fragment</string>
+    <string name="SP_fragment">this is coffe fragment</string>
+    <string name="ban">this is</string>
+    <string name="hello_SP_fragment">Á</string>
+    <string name="hello_SanPham_fragment">this is san pham fragment</string>
+    <string name="TaoBan">Tạo Bàn</string>
+</resources>
